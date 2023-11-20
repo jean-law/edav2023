@@ -1,5 +1,523 @@
 [
   {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.\nThere are 108 videos in total that are divided into 7 categories.\nHopefully this will help you prepare for your final project!\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project3.html#easy-data-analysis-and-visualization-add-ins-in-r-monwed",
+    "href": "project3.html#easy-data-analysis-and-visualization-add-ins-in-r-monwed",
+    "title": "Interactive and Web-based Applications",
+    "section": "7. Easy Data Analysis and Visualization Add-ins in R (Mon/Wed)",
+    "text": "7. Easy Data Analysis and Visualization Add-ins in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project3.html#data-visualization-r-add-ins-equisse-and-ggthemeassist-tuesthurs",
+    "href": "project3.html#data-visualization-r-add-ins-equisse-and-ggthemeassist-tuesthurs",
+    "title": "Interactive and Web-based Applications",
+    "section": "8. Data Visualization R Add-ins: Equisse and GGThemeAssist (Tues/Thurs)",
+    "text": "8. Data Visualization R Add-ins: Equisse and GGThemeAssist (Tues/Thurs)"
+  },
+  {
+    "objectID": "project3.html#implementing-interactive-filters-in-r-monwed",
+    "href": "project3.html#implementing-interactive-filters-in-r-monwed",
+    "title": "Interactive and Web-based Applications",
+    "section": "9. Implementing Interactive Filters in R (Mon/Wed)",
+    "text": "9. Implementing Interactive Filters in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project3.html#interactive-dashboard-creation-in-r-monwed",
+    "href": "project3.html#interactive-dashboard-creation-in-r-monwed",
+    "title": "Interactive and Web-based Applications",
+    "section": "10. Interactive Dashboard Creation in R (Mon/Wed)",
+    "text": "10. Interactive Dashboard Creation in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project3.html#understanding-interactive-2d-splines-monwed",
+    "href": "project3.html#understanding-interactive-2d-splines-monwed",
+    "title": "Interactive and Web-based Applications",
+    "section": "11. Understanding Interactive 2D Splines (Mon/Wed)",
+    "text": "11. Understanding Interactive 2D Splines (Mon/Wed)"
+  },
+  {
+    "objectID": "project3.html#embedding-visualizations-into-web-apps-with-r-monwed",
+    "href": "project3.html#embedding-visualizations-into-web-apps-with-r-monwed",
+    "title": "Interactive and Web-based Applications",
+    "section": "12. Embedding Visualizations into Web Apps with R (Mon/Wed)",
+    "text": "12. Embedding Visualizations into Web Apps with R (Mon/Wed)"
+  },
+  {
+    "objectID": "project3.html#quick-interactive-data-visualization-with-ggplot-and-ggrapture-tuesthurs",
+    "href": "project3.html#quick-interactive-data-visualization-with-ggplot-and-ggrapture-tuesthurs",
+    "title": "Interactive and Web-based Applications",
+    "section": "13. Quick Interactive Data Visualization with GGplot and GGRapture (Tues/Thurs)",
+    "text": "13. Quick Interactive Data Visualization with GGplot and GGRapture (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#exploring-categorical-datasets-in-r-monwed",
+    "href": "project2.html#exploring-categorical-datasets-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "14. Exploring Categorical Datasets in R (Mon/Wed)",
+    "text": "14. Exploring Categorical Datasets in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#quantile-based-data-partitioning-methods-in-r-with-cut2-monwed",
+    "href": "project2.html#quantile-based-data-partitioning-methods-in-r-with-cut2-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "15. Quantile-Based Data Partitioning Methods in R with Cut2() (Mon/Wed)",
+    "text": "15. Quantile-Based Data Partitioning Methods in R with Cut2() (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#effective-data-comparison-on-different-scales-monwed",
+    "href": "project2.html#effective-data-comparison-on-different-scales-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "16. Effective Data Comparison on Different Scales (Mon/Wed)",
+    "text": "16. Effective Data Comparison on Different Scales (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#jointplot-with-ggside-for-bivariate-analysis-tuesthurs",
+    "href": "project2.html#jointplot-with-ggside-for-bivariate-analysis-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "17. Jointplot with GGside for Bivariate Analysis (Tues/Thurs)",
+    "text": "17. Jointplot with GGside for Bivariate Analysis (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#lattice-package-for-univariate-and-multivariate-analysis-tuesthurs",
+    "href": "project2.html#lattice-package-for-univariate-and-multivariate-analysis-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "18. Lattice Package for Univariate and Multivariate Analysis (Tues/Thurs)",
+    "text": "18. Lattice Package for Univariate and Multivariate Analysis (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#overlaying-facetted-histograms-with-theoretical-normal-density-curves-monwed",
+    "href": "project2.html#overlaying-facetted-histograms-with-theoretical-normal-density-curves-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "19. Overlaying Facetted Histograms with Theoretical Normal Density Curves (Mon/Wed)",
+    "text": "19. Overlaying Facetted Histograms with Theoretical Normal Density Curves (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#plotting-theoretical-normal-distribution-across-facets-using-gg4x-monwed",
+    "href": "project2.html#plotting-theoretical-normal-distribution-across-facets-using-gg4x-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "20. Plotting theoretical normal distribution across facets using gg4x (Mon/Wed)",
+    "text": "20. Plotting theoretical normal distribution across facets using gg4x (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#bubble-and-3d-plot-techniques-in-r-with-plotly-monwed",
+    "href": "project2.html#bubble-and-3d-plot-techniques-in-r-with-plotly-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "21. Bubble and 3D Plot Techniques in R with Plotly (Mon/Wed)",
+    "text": "21. Bubble and 3D Plot Techniques in R with Plotly (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#unlocking-inclusive-data-visualization-color-blind-friendly-charts-in-r-monwed",
+    "href": "project2.html#unlocking-inclusive-data-visualization-color-blind-friendly-charts-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "22. Unlocking Inclusive Data Visualization: Color-Blind Friendly Charts in R (Mon/Wed)",
+    "text": "22. Unlocking Inclusive Data Visualization: Color-Blind Friendly Charts in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#combining-boxplots-and-ridgeline-plots-on-one-plot-monwed",
+    "href": "project2.html#combining-boxplots-and-ridgeline-plots-on-one-plot-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "23. Combining boxplots and ridgeline plots on one plot (Mon/Wed)",
+    "text": "23. Combining boxplots and ridgeline plots on one plot (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#eda-visualization-on-ranking-method-monwed",
+    "href": "project2.html#eda-visualization-on-ranking-method-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "24. EDA & Visualization on Ranking Method (Mon/Wed)",
+    "text": "24. EDA & Visualization on Ranking Method (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#comparing-facet-functions-facet_wrap-vs-facet_grid-monwed",
+    "href": "project2.html#comparing-facet-functions-facet_wrap-vs-facet_grid-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "25. Comparing Facet Functions: facet_wrap() vs facet_grid() (Mon/Wed)",
+    "text": "25. Comparing Facet Functions: facet_wrap() vs facet_grid() (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#generative-art-techniques-in-r-monwed",
+    "href": "project2.html#generative-art-techniques-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "26. Generative Art Techniques in R (Mon/Wed)",
+    "text": "26. Generative Art Techniques in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#creating-the-droste-effect-in-r-monwed",
+    "href": "project2.html#creating-the-droste-effect-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "27. Creating the Droste Effect in R (Mon/Wed)",
+    "text": "27. Creating the Droste Effect in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#stages-of-aesthetic-evaluation-in-ggplot2-monwed",
+    "href": "project2.html#stages-of-aesthetic-evaluation-in-ggplot2-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "28. 3 Stages of Aesthetic Evaluation in GGplot2 (Mon/Wed)",
+    "text": "28. 3 Stages of Aesthetic Evaluation in GGplot2 (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#how-to-create-a-color-palette-from-an-image-monwed",
+    "href": "project2.html#how-to-create-a-color-palette-from-an-image-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "29. How To Create a Color Palette from an Image (Mon/Wed)",
+    "text": "29. How To Create a Color Palette from an Image (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#mbti-data-analysis-with-circular-visualization-monwed",
+    "href": "project2.html#mbti-data-analysis-with-circular-visualization-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "30. MBTI Data Analysis with Circular Visualization (Mon/Wed)",
+    "text": "30. MBTI Data Analysis with Circular Visualization (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#how-to-draw-normal-curves-while-using-facet_wrap-in-r-tuesthurs",
+    "href": "project2.html#how-to-draw-normal-curves-while-using-facet_wrap-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "31. How to draw normal curves while using ‘facet_wrap()’ in R (Tues/Thurs)",
+    "text": "31. How to draw normal curves while using ‘facet_wrap()’ in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#effective-color-ramps-tuesthurs",
+    "href": "project2.html#effective-color-ramps-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "32. Effective color ramps (Tues/Thurs)",
+    "text": "32. Effective color ramps (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#creating-2d-and-3d-visualizations-with-rayshader-tuesthurs",
+    "href": "project2.html#creating-2d-and-3d-visualizations-with-rayshader-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "33. Creating 2D and 3D Visualizations with Rayshader (Tues/Thurs)",
+    "text": "33. Creating 2D and 3D Visualizations with Rayshader (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#customizing-themes-in-r-with-ggthemr-tuesthurs",
+    "href": "project2.html#customizing-themes-in-r-with-ggthemr-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "34. Customizing Themes in R with GGthemr (Tues/Thurs)",
+    "text": "34. Customizing Themes in R with GGthemr (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#plotting-waterfall-chart-with-r-ggplot2-tuesthurs",
+    "href": "project2.html#plotting-waterfall-chart-with-r-ggplot2-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "35. Plotting Waterfall Chart with R ggplot2 (Tues/Thurs)",
+    "text": "35. Plotting Waterfall Chart with R ggplot2 (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#trelliscopejs-for-interactive-data-visualization-tuesthurs",
+    "href": "project2.html#trelliscopejs-for-interactive-data-visualization-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "36. TrelliscopeJS for Interactive Data Visualization (Tues/Thurs)",
+    "text": "36. TrelliscopeJS for Interactive Data Visualization (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#correlation-matrices-and-hierarchical-clustering-in-r-tuesthurs",
+    "href": "project2.html#correlation-matrices-and-hierarchical-clustering-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "37. Correlation Matrices and Hierarchical Clustering in R (Tues/Thurs)",
+    "text": "37. Correlation Matrices and Hierarchical Clustering in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#basic-table-creation-in-r-tuesthurs",
+    "href": "project2.html#basic-table-creation-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "38. Basic Table Creation in R (Tues/Thurs)",
+    "text": "38. Basic Table Creation in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#designing-bivariate-color-palettes-for-choropleth-maps-in-r-tuesthurs",
+    "href": "project2.html#designing-bivariate-color-palettes-for-choropleth-maps-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "39. Designing Bivariate Color Palettes for Choropleth Maps in R (Tues/Thurs)",
+    "text": "39. Designing Bivariate Color Palettes for Choropleth Maps in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#deep-dive-of-parallel-coordinate-plots-in-r-tuesthurs",
+    "href": "project2.html#deep-dive-of-parallel-coordinate-plots-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "40. Deep Dive of Parallel Coordinate Plots in R (Tues/Thurs)",
+    "text": "40. Deep Dive of Parallel Coordinate Plots in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#creating-scatter-plots-with-boundaries-in-r-monwed",
+    "href": "project2.html#creating-scatter-plots-with-boundaries-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "41. Creating Scatter Plots with Boundaries in R (Mon/Wed)",
+    "text": "41. Creating Scatter Plots with Boundaries in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#interactive-heatmap-visualization-in-montgomery-county-with-r-shiny-monwed",
+    "href": "project2.html#interactive-heatmap-visualization-in-montgomery-county-with-r-shiny-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "42. Interactive Heatmap Visualization in Montgomery County with R Shiny (Mon/Wed)",
+    "text": "42. Interactive Heatmap Visualization in Montgomery County with R Shiny (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#hexmaps-understanding-the-y-axis-monwed",
+    "href": "project2.html#hexmaps-understanding-the-y-axis-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "43. HexMaps: Understanding the Y-axis (Mon/Wed)",
+    "text": "43. HexMaps: Understanding the Y-axis (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#sorting-boxplots-and-barplots-in-r-monwed",
+    "href": "project2.html#sorting-boxplots-and-barplots-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "44. Sorting Boxplots and Barplots in R (Mon/Wed)",
+    "text": "44. Sorting Boxplots and Barplots in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#comparison-between-geom_mosaic-and-vcdmosaic-monwed",
+    "href": "project2.html#comparison-between-geom_mosaic-and-vcdmosaic-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "45. Comparison between Geom_Mosaic and Vcd::Mosaic (Mon/Wed)",
+    "text": "45. Comparison between Geom_Mosaic and Vcd::Mosaic (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#unemployment-heatmaps-with-r-and-python-monwed",
+    "href": "project2.html#unemployment-heatmaps-with-r-and-python-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "46. Unemployment Heatmaps with R and Python (Mon/Wed)",
+    "text": "46. Unemployment Heatmaps with R and Python (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#comparison-between-population-pyramid-and-violin-plot-monwed",
+    "href": "project2.html#comparison-between-population-pyramid-and-violin-plot-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "47. Comparison Between Population Pyramid and Violin Plot (Mon/Wed)",
+    "text": "47. Comparison Between Population Pyramid and Violin Plot (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#common-uses-of-heatmap-tuesthurs",
+    "href": "project2.html#common-uses-of-heatmap-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "48. Common Uses of Heatmap (Tues/Thurs)",
+    "text": "48. Common Uses of Heatmap (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#heatmaps-in-r-tuesthurs",
+    "href": "project2.html#heatmaps-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "49. Heatmaps in R (Tues/Thurs)",
+    "text": "49. Heatmaps in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#interactive-scatterplots-with-highcharter-package-in-r-tuesthurs",
+    "href": "project2.html#interactive-scatterplots-with-highcharter-package-in-r-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "50. Interactive Scatterplots with Highcharter Package in R (Tues/Thurs)",
+    "text": "50. Interactive Scatterplots with Highcharter Package in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#interactive-data-visualizations-with-plotly-in-r-monwed",
+    "href": "project2.html#interactive-data-visualizations-with-plotly-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "51. Interactive Data Visualizations with Plotly in R (Mon/Wed)",
+    "text": "51. Interactive Data Visualizations with Plotly in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#enhancing-visualizations-with-plotly-layout-features-in-python-monwed",
+    "href": "project2.html#enhancing-visualizations-with-plotly-layout-features-in-python-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "52. Enhancing Visualizations with Plotly Layout Features in Python (Mon/Wed)",
+    "text": "52. Enhancing Visualizations with Plotly Layout Features in Python (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#creating-animations-using-gganimate-monwed",
+    "href": "project2.html#creating-animations-using-gganimate-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "53. Creating Animations using gganimate (Mon/Wed)",
+    "text": "53. Creating Animations using gganimate (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#creating-sankey-diagrams-with-networkd3-in-r-monwed",
+    "href": "project2.html#creating-sankey-diagrams-with-networkd3-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "54. Creating Sankey Diagrams with networkD3 in R (Mon/Wed)",
+    "text": "54. Creating Sankey Diagrams with networkD3 in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#gene-and-protein-interaction-networks-with-networkd3-in-r-monwed",
+    "href": "project2.html#gene-and-protein-interaction-networks-with-networkd3-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "55. Gene and Protein Interaction Networks with NetworkD3 in R (Mon/Wed)",
+    "text": "55. Gene and Protein Interaction Networks with NetworkD3 in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#animated-demographic-trend-maps-with-census-data-in-r-monwed",
+    "href": "project2.html#animated-demographic-trend-maps-with-census-data-in-r-monwed",
+    "title": "Data Visualization Techniques",
+    "section": "56. Animated Demographic Trend Maps with Census Data in R (Mon/Wed)",
+    "text": "56. Animated Demographic Trend Maps with Census Data in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project2.html#arrow-plots-and-animations-for-exploratory-data-analysis-and-visualization-tuesthurs",
+    "href": "project2.html#arrow-plots-and-animations-for-exploratory-data-analysis-and-visualization-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "57. Arrow Plots and Animations for Exploratory Data Analysis and Visualization (Tues/Thurs)",
+    "text": "57. Arrow Plots and Animations for Exploratory Data Analysis and Visualization (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#data-visualization-with-emojis-tuesthurs",
+    "href": "project2.html#data-visualization-with-emojis-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "58. Data Visualization with Emojis (Tues/Thurs)",
+    "text": "58. Data Visualization with Emojis (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#formatting-of-r-output-file-and-changing-order-of-graph-layers-tuesthurs",
+    "href": "project2.html#formatting-of-r-output-file-and-changing-order-of-graph-layers-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "59. Formatting of R Output File and Changing Order of Graph Layers (Tues/Thurs)",
+    "text": "59. Formatting of R Output File and Changing Order of Graph Layers (Tues/Thurs)"
+  },
+  {
+    "objectID": "project2.html#graph-resizing-in-r-markdown-tuesthurs",
+    "href": "project2.html#graph-resizing-in-r-markdown-tuesthurs",
+    "title": "Data Visualization Techniques",
+    "section": "60. Graph Resizing in R Markdown (Tues/Thurs)",
+    "text": "60. Graph Resizing in R Markdown (Tues/Thurs)"
+  },
+  {
+    "objectID": "project5.html#project-management-in-r-using-rproject-and-renv-monwed",
+    "href": "project5.html#project-management-in-r-using-rproject-and-renv-monwed",
+    "title": "Programming Techniques and Tools",
+    "section": "2. Project Management in R using RProject and Renv (Mon/Wed)",
+    "text": "2. Project Management in R using RProject and Renv (Mon/Wed)"
+  },
+  {
+    "objectID": "project5.html#how-to-run-r-and-python-in-the-same-jupyter-notebook-using-rpy2-monwed",
+    "href": "project5.html#how-to-run-r-and-python-in-the-same-jupyter-notebook-using-rpy2-monwed",
+    "title": "Programming Techniques and Tools",
+    "section": "3. How to run R and Python in the same Jupyter Notebook using rpy2 (Mon/Wed)",
+    "text": "3. How to run R and Python in the same Jupyter Notebook using rpy2 (Mon/Wed)"
+  },
+  {
+    "objectID": "project5.html#functional-programming-in-r-tuesthurs",
+    "href": "project5.html#functional-programming-in-r-tuesthurs",
+    "title": "Programming Techniques and Tools",
+    "section": "4. Functional Programming in R (Tues/Thurs)",
+    "text": "4. Functional Programming in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project5.html#quick-tips-on-speeding-up-data-manipulation-and-visualization-in-r-tuesthurs",
+    "href": "project5.html#quick-tips-on-speeding-up-data-manipulation-and-visualization-in-r-tuesthurs",
+    "title": "Programming Techniques and Tools",
+    "section": "5. Quick Tips on Speeding up Data Manipulation and Visualization in R (Tues/Thurs)",
+    "text": "5. Quick Tips on Speeding up Data Manipulation and Visualization in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project6.html#sentiment-analysis-in-tweets-about-fast-fashion-monwed",
+    "href": "project6.html#sentiment-analysis-in-tweets-about-fast-fashion-monwed",
+    "title": "Statistical Analysis and Modelling",
+    "section": "4. Sentiment Analysis in Tweets about Fast Fashion (Mon/Wed)",
+    "text": "4. Sentiment Analysis in Tweets about Fast Fashion (Mon/Wed)"
+  },
+  {
+    "objectID": "project6.html#causal-inference-with-sandwich-package-in-r-monwed",
+    "href": "project6.html#causal-inference-with-sandwich-package-in-r-monwed",
+    "title": "Statistical Analysis and Modelling",
+    "section": "5. Causal Inference with Sandwich Package in R (Mon/Wed)",
+    "text": "5. Causal Inference with Sandwich Package in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project6.html#caret-package-for-machine-learning-tuesthurs",
+    "href": "project6.html#caret-package-for-machine-learning-tuesthurs",
+    "title": "Statistical Analysis and Modelling",
+    "section": "6. Caret Package for Machine Learning (Tues/Thurs)",
+    "text": "6. Caret Package for Machine Learning (Tues/Thurs)"
+  },
+  {
+    "objectID": "project6.html#correlation-between-google-keyword-searches-and-stock-prices-via-regression-tuesthurs",
+    "href": "project6.html#correlation-between-google-keyword-searches-and-stock-prices-via-regression-tuesthurs",
+    "title": "Statistical Analysis and Modelling",
+    "section": "7. Correlation between Google keyword searches and stock prices via regression (Tues/Thurs)",
+    "text": "7. Correlation between Google keyword searches and stock prices via regression (Tues/Thurs)"
+  },
+  {
+    "objectID": "project6.html#modelling-of-body-fat-percentage-tuesthurs",
+    "href": "project6.html#modelling-of-body-fat-percentage-tuesthurs",
+    "title": "Statistical Analysis and Modelling",
+    "section": "8. Modelling of Body Fat Percentage (Tues/Thurs)",
+    "text": "8. Modelling of Body Fat Percentage (Tues/Thurs)"
+  },
+  {
+    "objectID": "project7.html#streamlit-data-analysis-app-studystats-a-non-coding-platform-for-beginners",
+    "href": "project7.html#streamlit-data-analysis-app-studystats-a-non-coding-platform-for-beginners",
+    "title": "Outside of R",
+    "section": "[6. Streamlit Data Analysis App: StudyStats, a non-coding platform for beginners",
+    "text": "[6. Streamlit Data Analysis App: StudyStats, a non-coding platform for beginners\n(Mon/Wed)](https://youtu.be/gsCIMVdy-Kw) ## 7. Interactive Data Visualizations in Python (Mon/Wed) ## 8. Visualizing Demographic Trends with Animated Maps (Mon/Wed) ## 9. Exploratory Analysis and Data Visualization (Mon/Wed) ## 10. Color Interpolation for Choropleth Maps in Data Wrapper (Tues/Thurs) ## 11. Interactive visualization with Plotly in Python (Tues/Thurs) ## 12. Efficient Excel Chart Management with VBA Macros (Tues/Thurs) ## 13. Visualization of Graph Data with Neo4J in Python (Tues/Thurs)"
+  },
+  {
+    "objectID": "project1_sample.html",
+    "href": "project1_sample.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "In here you’ll find the hard work of the MSDS 2023 students."
+  },
+  {
+    "objectID": "project1_sample.html#welcome-to-edav-2023-community-contribution-video-repository",
+    "href": "project1_sample.html#welcome-to-edav-2023-community-contribution-video-repository",
+    "title": "Project 1",
+    "section": "",
+    "text": "In here you’ll find the hard work of the MSDS 2023 students."
+  },
+  {
+    "objectID": "project4.html#deep-dive-in-hexagonal-grids-tuesthurs",
+    "href": "project4.html#deep-dive-in-hexagonal-grids-tuesthurs",
+    "title": "Parameter Analysis of Visualization Techniques",
+    "section": "2. Deep Dive in Hexagonal Grids (Tues/Thurs)",
+    "text": "2. Deep Dive in Hexagonal Grids (Tues/Thurs)"
+  },
+  {
+    "objectID": "project1.html#strategies-for-handling-missing-data-monwed",
+    "href": "project1.html#strategies-for-handling-missing-data-monwed",
+    "title": "Data Collection and Preprocessing",
+    "section": "2. Strategies for Handling Missing Data (Mon/Wed)",
+    "text": "2. Strategies for Handling Missing Data (Mon/Wed)"
+  },
+  {
+    "objectID": "project1.html#combining-sub-categories-in-dataframes-in-r-with-grepl-monwed",
+    "href": "project1.html#combining-sub-categories-in-dataframes-in-r-with-grepl-monwed",
+    "title": "Data Collection and Preprocessing",
+    "section": "3. Combining Sub-Categories in Dataframes in R with grepl() (Mon/Wed)",
+    "text": "3. Combining Sub-Categories in Dataframes in R with grepl() (Mon/Wed)"
+  },
+  {
+    "objectID": "project1.html#min-max-scaling-in-r-monwed",
+    "href": "project1.html#min-max-scaling-in-r-monwed",
+    "title": "Data Collection and Preprocessing",
+    "section": "4. Min-max Scaling in R (Mon/Wed)",
+    "text": "4. Min-max Scaling in R (Mon/Wed)"
+  },
+  {
+    "objectID": "project1.html#web-scraping-in-r-tuesthurs",
+    "href": "project1.html#web-scraping-in-r-tuesthurs",
+    "title": "Data Collection and Preprocessing",
+    "section": "5. Web Scraping in R (Tues/Thurs)",
+    "text": "5. Web Scraping in R (Tues/Thurs)"
+  },
+  {
+    "objectID": "project1.html#working-with-time-zone-in-r-with-lubridate-tuesthurs",
+    "href": "project1.html#working-with-time-zone-in-r-with-lubridate-tuesthurs",
+    "title": "Data Collection and Preprocessing",
+    "section": "6. Working with Time Zone in R with Lubridate (Tues/Thurs)",
+    "text": "6. Working with Time Zone in R with Lubridate (Tues/Thurs)"
+  },
+  {
+    "objectID": "project1.html#tricks-of-data-cleaning-and-visualization-in-r-tuesthurs",
+    "href": "project1.html#tricks-of-data-cleaning-and-visualization-in-r-tuesthurs",
+    "title": "Data Collection and Preprocessing",
+    "section": "7. Tricks of data cleaning and visualization in R (Tues/Thurs)",
+    "text": "7. Tricks of data cleaning and visualization in R (Tues/Thurs)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
@@ -14,17 +532,17 @@
     "text": "How to web scrape in R"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "automatic-script.html",
+    "href": "automatic-script.html",
+    "title": "EDAV Fall 2023 Community Contribution",
+    "section": "",
+    "text": "{ “cells”: [ { “cell_type”: “code”, “execution_count”: 1, “metadata”: {}, “outputs”: [], “source”: [ “import pandas as pd”, “import numpy as np” ] }, { “cell_type”: “code”, “execution_count”: 41, “metadata”: {}, “outputs”: [], “source”: [ “links = pd.read_csv(‘links-spreadsheet.csv’)” ] }, { “cell_type”: “code”, “execution_count”: 42, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “109” ] } ], “source”: [ “print(len(links.index))” ] }, { “cell_type”: “code”, “execution_count”: 4, “metadata”: {}, “outputs”: [], “source”: [ “df = links[[‘Section’,‘Links’,‘Main Category’,‘Sub Category’,‘Title’]]”, “df = df.dropna(subset=[‘Main Category’])” ] }, { “cell_type”: “code”, “execution_count”: 5, “metadata”: {}, “outputs”: [], “source”: [ “df.head(3)”, “category_list = list(set(df[‘Main Category’].to_list()))” ] }, { “cell_type”: “code”, “execution_count”: 6, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “[‘Parameter Analysis of Visualization Techniques’, ‘Interactive and Web-based Applications’, ‘Data Collection and Preprocessing’, ‘Data Visualization Techniques’, ‘Statistical Analysis and Modelling’, ‘Outside of R’, ‘Programming Techniques and Tools’]” ] } ], “source”: [ “print(category_list)” ] }, { “cell_type”: “code”, “execution_count”: 7, “metadata”: {}, “outputs”: [], “source”: [ “df1 = df[df[\"Main Category\"] == \"Data Collection and Preprocessing\"]” ] }, { “cell_type”: “code”, “execution_count”: 8, “metadata”: {}, “outputs”: [], “source”: [ “df1.head(10)”, “subcategory_list1 = list(set(df1[‘Sub Category’].to_list()))” ] }, { “cell_type”: “code”, “execution_count”: 9, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “[‘Miscellaneous’]” ] } ], “source”: [ “print(subcategory_list1)” ] }, { “cell_type”: “code”, “execution_count”: 39, “metadata”: {}, “outputs”: [], “source”: [ “category_list = sorted(category_list)”, “category_list.append(category_list.pop(category_list.index(‘Outside of R’)))”, “”, “for cat_nb in range(len(category_list)):”, ” main_category = category_list[cat_nb]“,” df1 = df[df[\"Main Category\"] == main_category]“,”“,” with open(f’project{cat_nb+1}.qmd’, ‘w’) as f: #projecti.qmd“,” link_nb = 1“,” f.write(\"—\\n\")“,” f.write(f\"title:{main_category}\\n\")“,” f.write(\"—\\n\")“,”“,” subcategory_list1 = list(set(df1[‘Sub Category’].to_list()))“,”“,” # try:“,” subcategory_list1.append(subcategory_list1.pop(subcategory_list1.index(‘Miscellaneous’)))“,” “,”“,” for sub_nb, subcategory in enumerate(subcategory_list1):“,” df1_sub = df1[df1[\"Sub Category\"] == subcategory]“,” if len(subcategory_list1) &gt; 1:“,” f.write(f\"# Subcategory {sub_nb + 1}: {subcategory}\\n\")“,” for video_nb in range(len(df1_sub[‘Title’].to_list())):“,” # print(len(df1_sub[‘Title’].to_list()))“,” title = df1_sub[‘Title’].to_list()“,” section = df1_sub[‘Section’].to_list()“,” links = df1_sub[‘Links’].to_list()“,” f.write(f\"## {link_nb}. {title[video_nb]} ({section[video_nb]})\\n\")“,” link_nb += 1“,” f.write(\"\\n\")“,” ” ] }, { “cell_type”: “code”, “execution_count”: 22, “metadata”: {}, “outputs”: [ { “data”: { “text/plain”: [ “5” ] }, “execution_count”: 22, “metadata”: {}, “output_type”: “execute_result” } ], “source”: [ “len(df1_sub[‘Title’].to_list())” ] } ], “metadata”: { “kernelspec”: { “display_name”: “web-scraping”, “language”: “python”, “name”: “python3” }, “language_info”: { “codemirror_mode”: { “name”: “ipython”, “version”: 3 }, “file_extension”: “.py”, “mimetype”: “text/x-python”, “name”: “python”, “nbconvert_exporter”: “python”, “pygments_lexer”: “ipython3”, “version”: “3.11.2” }, “orig_nbformat”: 4 }, “nbformat”: 4, “nbformat_minor”: 2 }\n\n\n\n Back to top"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "project1.html",
+    "href": "project1.html",
+    "title": "Data Collection and Preprocessing",
+    "section": "",
+    "text": "1. Understanding the grepl() function in R (Mon/Wed)\n\n\n2. Strategies for Handling Missing Data (Mon/Wed)\n\n\n3. Combining Sub-Categories in Dataframes in R with grepl() (Mon/Wed)\n\n\n4. Min-max Scaling in R (Mon/Wed)\n\n\n5. Web Scraping in R (Tues/Thurs)\n\n\n6. Working with Time Zone in R with Lubridate (Tues/Thurs)\n\n\n7. Tricks of data cleaning and visualization in R (Tues/Thurs)\n\n\n\n\n Back to top"
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title:Data Visualization Techniques
+title: "Data Visualization Techniques"
 ---
 # Subcategory 1: Statistical and Quantitative Analysis
 [1. Exploring Categorical Datasets in R (Mon/Wed)](https://youtu.be/s5ehRahj2pM?feature=shared)
