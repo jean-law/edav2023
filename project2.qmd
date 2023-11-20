@@ -1,6 +1,75 @@
 ---
-title: "Project 2"
-author: 'author name'
+title:Data Visualization Techniques
 ---
+# Subcategory 1: Specialized Data Types Visualization
+## [1. Using WordClouds to analyze data (Mon/Wed)](https://youtu.be/GPHgiqD2XfE)
+## [2. R Visualizations for Financial Data Analysis with Plotly (Mon/Wed)](https://youtu.be/tbmGq7_TM-4)
+## [3. NFL Visualizations with Next Gen Stats (Mon/Wed)](https://youtu.be/xs0cGbjoseE)
+## [4. Personal Finance Case Study: Monthly Expense Analysis in R (Mon/Wed)](https://youtu.be/Q06kLBNwGc8)
+## [5. Explaining tm and wordcloud2 Packages in R (Mon/Wed)](https://youtu.be/1DR7mgeZuKE)
+## [6. Interactive Visualization of Geospatial Data with GGplot2 and Plotly (Tues/Thurs)](https://youtu.be/ui8R4zbRgo8)
+## [7. How to use Geom_map in GGplot2 (Tues/Thurs)](https://youtu.be/NqDyeAsKUm8)
+## [8. Using R to visualize expense (Tues/Thurs)](https://youtu.be/8lsHGKUn8A0)
+## [9. Accident Density Mapping in NYC with Plotly Interactive Plots (Tues/Thurs)](https://www.youtube.com/watch?v=tikmXPmjig8)
+## [10. Add graphs Inside Markers on a Geographic Map with LeafLet (Tues/Thurs)](https://youtu.be/cs6Mb3Kv7rA)
+## [11. Maps and Projections in R (Tues/Thurs)](https://youtu.be/xjwiaVM0G9A)
+## [12. Interactive Time Series Data Visualization with Dygraphs Package (Tues/Thurs)](https://youtu.be/71zl39yzwXM)
+## [13. Choropleth Maps in R (Tues/Thurs)](https://youtu.be/-hutMwiLO7A)
 
-## Project 2
+# Subcategory 2: Statistical and Quantitative Analysis
+## [14. Exploring Categorical Datasets in R (Mon/Wed)](https://youtu.be/s5ehRahj2pM?feature=shared)
+## [15. Quantile-Based Data Partitioning Methods in R with Cut2() (Mon/Wed)](https://youtu.be/BmxpApzmpqE)
+## [16. Effective Data Comparison on Different Scales (Mon/Wed)](https://www.youtube.com/watch?v=LG10EWIpCD4)
+## [17. Jointplot with GGside for Bivariate Analysis  (Tues/Thurs)](https://www.youtube.com/watch?v=bLQfqMvSh3g)
+## [18. Lattice Package for Univariate and Multivariate Analysis (Tues/Thurs)](https://youtu.be/wsrGQPPPmN4)
+
+# Subcategory 3: Basic and Advanced Techniques
+## [19. Overlaying Facetted Histograms with Theoretical Normal Density Curves (Mon/Wed)](https://www.youtube.com/watch?v=9wtvJz82oSw)
+## [20. Plotting theoretical normal distribution across facets using gg4x (Mon/Wed)](https://youtu.be/fyHNWSkcYpk)
+## [21. Bubble and 3D Plot Techniques in R with Plotly (Mon/Wed)](https://youtu.be/tpl4TEVOHCI)
+## [22. Unlocking Inclusive Data Visualization: Color-Blind Friendly Charts in R (Mon/Wed)](https://youtu.be/PudGAzRal_4)
+## [23. Combining boxplots and ridgeline plots on one plot (Mon/Wed)](https://www.youtube.com/watch?v=40MokoiI3Aw)
+## [24. EDA & Visualization on Ranking Method (Mon/Wed)](https://youtu.be/aG7t5I2zk9E)
+## [25. Comparing Facet Functions: facet_wrap() vs facet_grid() (Mon/Wed)](https://www.youtube.com/watch?v=6k39xguz4js)
+## [26. Generative Art Techniques in R (Mon/Wed)](https://youtu.be/ZAyUFSky0N8)
+## [27. Creating the Droste Effect in R (Mon/Wed)](https://youtu.be/nI1XMoUHn0o)
+## [28. 3 Stages of Aesthetic Evaluation in GGplot2 (Mon/Wed)](https://youtu.be/JV1eIjZ2EPA)
+## [29. How To Create a Color Palette from an Image (Mon/Wed)](https://www.youtube.com/watch?v=U6-6sXRUwoI)
+## [30. MBTI Data Analysis with Circular Visualization (Mon/Wed)](https://youtu.be/bQ6XQiVKSGU)
+## [31. How to draw normal curves while using 'facet_wrap()' in R (Tues/Thurs)](https://youtu.be/jLz0sf-UWug)
+## [32. Effective color ramps (Tues/Thurs)](https://youtu.be/8Ktp7bOyGNg)
+## [33. Creating 2D and 3D Visualizations with Rayshader (Tues/Thurs)](https://www.youtube.com/watch?v=7UHCfWN96d0)
+## [34. Customizing Themes in R with GGthemr (Tues/Thurs)](https://www.youtube.com/watch?v=IM6cCHPoP38&ab_channel=AustinSchaefer)
+## [35. Plotting Waterfall Chart with R ggplot2 (Tues/Thurs)](https://youtu.be/EaNv8NVBc_Q)
+## [36. TrelliscopeJS for Interactive Data Visualization (Tues/Thurs)](https://youtu.be/7qcQgLN8TnM)
+## [37. Correlation Matrices and Hierarchical Clustering in R (Tues/Thurs)](https://youtu.be/PhbY_ovIQIw)
+## [38. Basic Table Creation in R (Tues/Thurs)](https://youtu.be/SL9gkcZjGx4)
+## [39. Designing Bivariate Color Palettes for Choropleth Maps in R (Tues/Thurs)](https://www.youtube.com/watch?v=KrwS10RStbw)
+## [40. Deep Dive of Parallel Coordinate Plots in R (Tues/Thurs)](https://youtu.be/HTh5e7v54uM)
+
+# Subcategory 4: Plot Types and Techniques
+## [41. Creating Scatter Plots with Boundaries in R (Mon/Wed)](https://youtu.be/dCl9tISXSSQ)
+## [42. Interactive Heatmap Visualization in Montgomery County with R Shiny (Mon/Wed)](https://www.youtube.com/watch?v=nNI4SeSLgN0)
+## [43. HexMaps: Understanding the Y-axis (Mon/Wed)](https://youtu.be/mslzLw5v738)
+## [44. Sorting Boxplots and Barplots in R (Mon/Wed)](https://youtu.be/3RkNs3cyHlU)
+## [45. Comparison between Geom_Mosaic and Vcd::Mosaic (Mon/Wed)](https://drive.google.com/file/d/15vGCwVp3WpW1bFwdP_prFg1zRozqYERK/view?usp=sharing)
+## [46. Unemployment Heatmaps with R and Python (Mon/Wed)](https://youtu.be/BVLzry9EBGY)
+## [47. Comparison Between Population Pyramid and Violin Plot (Mon/Wed)](https://www.youtube.com/watch?v=jmLVh4yy58Y)
+## [48. Common Uses of Heatmap (Tues/Thurs)](https://youtu.be/mIg_5rwmGfo)
+## [49. Heatmaps in R (Tues/Thurs)](https://youtu.be/06sfnL8TpOI)
+## [50. Interactive Scatterplots with Highcharter Package  in R (Tues/Thurs)](https://youtu.be/SNbqdJmqtAw)
+
+# Subcategory 5: Interactive and Dynamic Visualizations
+## [51. Interactive Data Visualizations with Plotly in R (Mon/Wed)](https://youtu.be/87ZuiR7SrfA)
+## [52. Enhancing Visualizations with Plotly Layout Features in Python (Mon/Wed)](https://www.youtube.com/watch?v=gM8yz6P7V0A)
+## [53. Creating Animations using gganimate (Mon/Wed)](https://www.youtube.com/watch?v=USw2AECFIkw)
+## [54. Creating Sankey Diagrams with networkD3 in R (Mon/Wed)](https://youtu.be/n43RMdALxvc)
+## [55.  Gene and Protein Interaction Networks with NetworkD3 in R (Mon/Wed)](https://www.youtube.com/watch?v=FdzTsrCvdkk)
+## [56. Animated Demographic Trend Maps with Census Data in R (Mon/Wed)](https://www.youtube.com/watch?v=aUJAHXfVrnw)
+## [57. Arrow Plots and Animations for Exploratory Data Analysis and Visualization (Tues/Thurs)](https://www.youtube.com/watch?v=rp4ahQtkXrM&ab_channel=YelamanSain)
+
+# Subcategory 6: Miscellaneous
+## [58. Data Visualization with Emojis (Tues/Thurs)](https://youtu.be/A-il70GvkkM)
+## [59. Formatting of R Output File and Changing Order of Graph Layers (Tues/Thurs)](https://www.youtube.com/watch?v=xj4HCy5Y3Yg)
+## [60. Graph Resizing in R Markdown (Tues/Thurs)](https://youtu.be/PWqMcgbISFI)
+
