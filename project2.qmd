@@ -1,5 +1,5 @@
 ---
-title:Data Visualization Techniques
+title: "Data Visualization Techniques"
 ---
 # Subcategory 1: Specialized Data Types Visualization
 ## [1. Using WordClouds to analyze data (Mon/Wed)](https://youtu.be/GPHgiqD2XfE)

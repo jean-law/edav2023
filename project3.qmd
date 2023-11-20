@@ -1,5 +1,5 @@
 ---
-title:Interactive and Web-based Applications
+title: "Interactive and Web-based Applications"
 ---
 # Subcategory 1: Shiny App
 ## [1. How to make an Interactive Dashboard with Shiny App on R (Mon/Wed)](https://youtu.be/UG6QibAflRs)

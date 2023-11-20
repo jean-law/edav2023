@@ -33,19 +33,19 @@ website:
         contents:
           - project3.qmd
       - text: "---"
-      - section: "4. Parameter Analysis of Visualization Techniques"
-        contents:
-          - project4.qmd
-      - section: "5. Programming Techniques and Tools" #
-        contents:
-          - project5.qmd
-      - text: "---"
-      - section: "6. Statistical Analysis and Modelling"
-        contents:
-          - project6.qmd
-      - section: "7. Outside of R" #
+      - section: "4. Outside of R"
         contents:
           - project7.qmd
+      - section: "5. Parameter Analysis of Visualization Techniques" #
+        contents:
+          - project4.qmd
+      - text: "---"
+      - section: "6. Programming Techniques and Tools"
+        contents:
+          - project5.qmd
+      - section: "7. Statistical Analysis and Modelling" #
+        contents:
+          - project6.qmd
       - text: "---"
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
