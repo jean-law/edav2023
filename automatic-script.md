@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 11,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -12,7 +12,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -21,7 +21,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 13,
    "metadata": {},
    "outputs": [
     {
@@ -38,7 +38,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 14,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -48,7 +48,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 15,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -58,7 +58,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 16,
    "metadata": {},
    "outputs": [
     {
@@ -75,7 +75,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -84,7 +84,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 18,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -94,7 +94,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 19,
    "metadata": {},
    "outputs": [
     {
@@ -111,18 +111,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 20,
    "metadata": {},
-   "outputs": [
-    {
-     "ename": "SyntaxError",
-     "evalue": "invalid syntax. Perhaps you forgot a comma? (2146993563.py, line 11)",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[0;36m  Cell \u001b[0;32mIn[10], line 11\u001b[0;36m\u001b[0m\n\u001b[0;31m    f.write(f\"title: \"{main_category}\"\\n\")\u001b[0m\n\u001b[0m            ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax. Perhaps you forgot a comma?\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "category_list = sorted(category_list)\n",
     "category_list.append(category_list.pop(category_list.index('Outside of R')))\n",
@@ -160,7 +151,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [
     {
@@ -169,7 +160,7 @@
        "8"
       ]
      },
-     "execution_count": 11,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
